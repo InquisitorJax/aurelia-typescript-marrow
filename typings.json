@@ -1,5 +1,5 @@
 {
-  "name": "aurelia-formbuilder",
+  "name": "aurelia-typescript-marrow",
   "dependencies":
   { "aurelia-binding": "github:aurelia/binding",
     "aurelia-bootstrapper": "github:aurelia/bootstrapper",

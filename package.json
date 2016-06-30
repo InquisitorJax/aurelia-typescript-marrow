@@ -1,21 +1,21 @@
 {
-  "name": "aurelia-formbuilder",
+  "name": "aurelia-typescript-marrow",
   "version": "1.0.0",
-  "description": "learning project for dynamic form configuration",
+  "description": "the most basic setup for an aurelia typescript project with steps to reproduce",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/InquisitorJax/Aurelia-FormBuilder.git"
+    "url": "git+https://github.com/InquisitorJax/aurelia-typescript-marrow.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/InquisitorJax/Aurelia-FormBuilder/issues"
+    "url": "https://github.com/InquisitorJax/aurelia-typescript-marrow/issues"
   },
-  "homepage": "https://github.com/InquisitorJax/Aurelia-FormBuilder#readme",
+  "homepage": "https://github.com/InquisitorJax/aurelia-typescript-marrow/#readme",
   "devDependencies": {
     "aurelia-bundler": "^0.4.0",
     "del": "^2.2.1",
